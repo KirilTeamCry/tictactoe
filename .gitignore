@@ -1,5 +1,5 @@
 .env
-*.avm
+*.avm*.avm
 *.prover
 *.verifier
 outputs/
